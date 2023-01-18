@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Layout de reprrodutores de música 
+Layout de reprodutores de música
 
 ## 🔖 Layout
 
